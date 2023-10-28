@@ -2,5 +2,4 @@
 
 session_start();
 
-define('ADMIN_URL', 'http://localhost/website/admin/');
- 
+define('ADMIN_URL', 'http://localhost:8080/website/admin/');
